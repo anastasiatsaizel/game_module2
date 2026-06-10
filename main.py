@@ -46,7 +46,7 @@ def main():
             break
 
         else:
-            print("Invalid input")
+            print("Invalid choice")
 
 
 main()
