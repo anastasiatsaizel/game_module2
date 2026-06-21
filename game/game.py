@@ -1,4 +1,5 @@
 import random
+# Game logic module
 
 def roll_dice():
     return random.randint(1, 6)
